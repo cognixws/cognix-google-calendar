@@ -29,7 +29,7 @@ install time; the extension has no runtime dependencies.
    5. **APIs & Services → Credentials → Create credentials → OAuth client ID**,
       type **Desktop app**. Copy the client ID and secret.
 2. In COGNIX[WS]: **Extensions → Install extension**, paste
-   `https://github.com/cognixws/picode-google-calendar`, review the access it
+   `https://github.com/cognixws/cognix-google-calendar`, review the access it
    asks for (read and change your calendar events) and install.
 3. Open the extension's **Configuration**, paste the client ID and secret, and
    save. Leave *Calendar* empty for your primary calendar.
